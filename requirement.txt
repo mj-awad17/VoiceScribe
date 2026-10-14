@@ -2,6 +2,6 @@ streamlit>=1.40
 transformers>=4.44
 torch
 accelerate
-librosa
+
 soundfile
 pandas
